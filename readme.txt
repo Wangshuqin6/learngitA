@@ -3,3 +3,4 @@ Git is free softwarIe distributedstributed under the GPL
 Git has mutable index called stage
 Git tracks change
 git is simple
+today is a nice day
